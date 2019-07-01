@@ -1,4 +1,4 @@
-# vtex_api
+# Vtex URL API
 
 ### Lista de URLs da Vtex ###
 
